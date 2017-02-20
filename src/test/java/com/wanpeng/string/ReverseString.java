@@ -34,6 +34,17 @@ public class ReverseString {
     }
 
     @Test
+    public void testUsingLoop2() {
+        String reverse = "";
+        for (int i = INPUT.length(); i > 0; i--) {
+            reverse = reverse + INPUT.substring(i - 1, i);
+        }
+
+        assertEquals(OUTPUT, reverse);
+
+    }
+
+    @Test
     public void testReverseUsingRecusion() {
         assertEquals(OUTPUT, reverseString(INPUT));
     }

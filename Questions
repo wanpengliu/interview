@@ -1,0 +1,53 @@
+--------------  Memory -------------- 
+
+Differences between stack and heap ?
+Access, memory management, lifetime, usage
+
+different types of garbage collectors 
+-------------- Core -------------- 
+main concepts of OOPs
+Inheritance Encaspulation, Abstraction, Polymorphism
+
+Differences between interface and abstract class
+
+final, finally keyword
+
+differences between this() and super()
+
+Method overloading vs method overriding 
+
+Checked and unchecked exception
+
+different ways to handle exception - try/catch 
+
+--------------  Collections -------------- 
+
+Interfaces and classes available in collections
+What are their relationship
+
+------------- Spring ---------------
+What is spring
+
+What's new in spring 5 - webflux, junit 5 parallel testing, kotlin, common logging bridge, java 8 
+
+key features: dependency injection, AOP, MVC, TXN, JDBC
+
+common issue/limitation of auto wiring 
+
+Singleton Pattern: Creating beans with default scope.
+Factory Pattern: Bean Factory classes
+Prototype Pattern: Bean scopes
+Adapter Pattern: Spring Web and Spring MVC
+Proxy Pattern: Spring Aspect Oriented Programming support
+Template Method Pattern: JdbcTemplate, HibernateTemplate etc
+Front Controller: Spring MVC DispatcherServlet
+Data Access Object: Spring DAO support
+Dependency Injection and Aspect Oriented Programming
+
+types of advice - before, after, after throwing, around
+
+Explain the bean life cycle in Spring Framework
+
+Error handling 
+
+Aware interfaces for specific behavior
